@@ -15,7 +15,13 @@ Eine performante, anpassbare Custom Lovelace Card für Home Assistant zum Mitzä
 
 ---
 
-## 📦 Installation über HACS
+## 📦 Installation 
+
+### Über HACS
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mbssmartsolutions&repository=dart-card-pro&category=plugin)
+
+oder
 
 ### Als benutzerdefiniertes Repository hinzufügen
 1. Öffne **HACS** in Home Assistant.
