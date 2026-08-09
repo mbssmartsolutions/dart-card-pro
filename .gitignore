@@ -141,3 +141,29 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# System- & OS-Dateien (Mac / Windows)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor- & IDE-Ordner
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node & Build-Dateien (falls du später Build-Tools nutzt)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporäre Dateien & Caches
+*.log
+.cache/
+
+# Audio-Testdateien (die Audio-Dateien gehören nicht ins Repo, sondern auf den HA-Server der Nutzer)
+www/
+caller/
+*.mp3
